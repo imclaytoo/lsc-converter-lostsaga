@@ -1,0 +1,29 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "name": "lsc2dds",
+  "version": "1.0.0",
+  "description": "LSC to DDS tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "-d sample sample"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qya/lsc2dds.git"
+  },
+  "keywords": [
+    "lsc",
+    "dds"
+  ],
+  "author": "Qya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qya/lsc2dds/issues"
+  },
+  "homepage": "https://github.com/qya/lsc2dds#readme"
+}
