@@ -28,6 +28,8 @@ node index.js -d texture
 
 ### There you go, all of **.lsc** files on **texture/** folder will be coverted to **.dds**
 
-#Notes:
--Added DDS to JPG Converter (dds2jpg.exe)
-Credit to: https://www.easy2convert.com/dds2jpg/
+# Notes:
+
+- Added **DDS to JPG** Converter (**dds2jpg.exe**)
+
+**Credit to:** https://www.easy2convert.com/dds2jpg/
