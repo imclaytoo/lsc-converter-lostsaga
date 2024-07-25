@@ -4,7 +4,7 @@ LSC to DDS NodeJS tools using Node.JS
 
 You can use this tool for converting **.lsc** Player Gear Design file to **.dds** file, then you can convert to **.jpg/.png** file using any online coverter (many online converter can convert from **.dds** to **.jpg**)
 
-Before started, make sure you paste all **.lsc** file to **lsc-converter-lostsaga/texture/**
+Before started, make sure you paste all **.lsc** file inside **/texture/**
 
 # Get Started
 
